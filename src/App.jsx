@@ -8,7 +8,6 @@ function App() {
         <header className="top-bar">
           <div className="firm-name-block">
             <p className="firm-name-main">Baglamukhi Enterprises</p>
-            <p className="firm-name-sub">Railway Contractor</p>
           </div>
           <a className="phone-chip" href="tel:7988358759">
             Call: 7988358759
@@ -18,7 +17,7 @@ function App() {
         <div className="hero-layout">
           <div className="hero-content">
           <p className="eyebrow">
-            Trusted Old Iron Scrap Trading | Railway Contractor
+            Trusted Old Iron Scrap Trading
           </p>
             <h1>Powering Industry Through Responsible Scrap Commerce</h1>
             <p className="hero-copy">
@@ -111,10 +110,17 @@ function App() {
         <a className="btn btn-primary" href="tel:7988358759">
           7988358759
         </a>
+        <p>
+          Email:{' '}
+          <a href="mailto:baglamukhienterprises08@gmail.com">
+            baglamukhienterprises08@gmail.com
+          </a>
+        </p>
+        <p>GSTIN: 06CCZPV2150D2Z9</p>
       </section>
 
       <footer className="footer-note">
-        <p>Baglamukhi Enterprises | Railway Contractor | Old Iron Scrap Trading</p>
+        <p>Baglamukhi Enterprises | Old Iron Scrap Trading</p>
       </footer>
     </main>
   )
